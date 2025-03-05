@@ -13,8 +13,5 @@ public class Pratik_11 {
         System.out.print("Ondalıklı bir sayı Giriniz");
         Number_2=scanner.nextDouble();
 
-        Total=
-
-
     }
 }
