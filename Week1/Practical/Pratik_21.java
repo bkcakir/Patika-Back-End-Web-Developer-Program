@@ -8,6 +8,7 @@ public class Pratik_21 {
         int Age;
         Scanner scanner =new Scanner(System.in);
 
+        //Kullanıcıdan adı ve yaşı alarak ona kaç yıl sonra 100 yaşına gireceğini söyleyen bir program yazın.
         System.out.print("İsminiz Nedir ? : ");
         Name=scanner.nextLine();
 

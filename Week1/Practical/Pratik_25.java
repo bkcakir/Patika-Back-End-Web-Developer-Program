@@ -6,6 +6,7 @@ public class Pratik_25 {
     public static void main(String[] args) {
         int Age;
         Scanner scanner = new Scanner(System.in);
+        //Kullanıcının yaşına göre ehliyet alıp alamayacağını söyleyen bir program oluşturun.
 
         System.out.print("Yaşınızı Giriniz ");
         Age= scanner.nextInt();

@@ -7,6 +7,8 @@ public class Pratik_19 {
         int Number_1;
         int Number_2;
 
+        //Kullanıcıdan alınan iki sayının birbirine bölünüp bölünemediğini bulan bir program yazın.
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Lütfen Bir Sayı Giriniz : ");

@@ -8,6 +8,9 @@ public class Pratik_23 {
         int Number,Ln;
         Scanner scanner = new Scanner(System.in);
 
+
+        //Kullanıcıdan üç sayı alıp en büyüğünü bulan bir program yazın.
+
         for(int i =0; i<Numbers.length;i++)
         {
             System.out.print("Lütfen Bir Sayı Giriniz: ");

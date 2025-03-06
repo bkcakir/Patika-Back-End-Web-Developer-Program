@@ -7,7 +7,7 @@ public class Pratik_14 {
       int Number_1,Number_2;
       double Total;
         Scanner scanner = new Scanner(System.in);
-
+        //Kullanıcıdan iki tam sayı alarak bunları bölüp sonucu ondalıklı olarak gösterin.
         System.out.print("Lütfen Bir Sayı Giriniz : ");
         Number_1=scanner.nextInt();
         System.out.print("Lütfen Bir Sayı Giriniz : ");

@@ -7,6 +7,8 @@ public class Pratik_17 {
         int Number_1;
         int Number_2;
 
+        //İki sayıyı karşılaştırarak büyük olanı ekrana yazdıran bir program yazın.
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Lütfen Bir sayı Giriniz : ");

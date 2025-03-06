@@ -7,6 +7,8 @@ public class Pratik_27 {
         int angle, total = 0;
         Scanner scanner = new Scanner(System.in);
 
+        //Kullanıcının girdiği üçgen kenar uzunluklarının bir üçgen oluşturup oluşturmadığını belirleyen bir program yazın.
+
         for (int i = 0; i < 3; i++) {
             System.out.print("Üçgenin bir açısını giriniz: ");
             angle = scanner.nextInt();

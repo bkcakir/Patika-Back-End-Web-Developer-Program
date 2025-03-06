@@ -6,6 +6,8 @@ public class Pratik_26 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        //İki sayının mutlak değerlerinin karşılaştırmasını yapan bir program yazın.
+
         System.out.print("Lütfen birinci sayıyı giriniz: ");
         int number1 = scanner.nextInt();
         System.out.print("Lütfen ikinci sayıyı giriniz: ");

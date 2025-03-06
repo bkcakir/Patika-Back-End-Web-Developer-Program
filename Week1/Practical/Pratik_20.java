@@ -7,6 +7,7 @@ public class Pratik_20 {
         int Number,Avg = 0;
         Scanner scanner = new Scanner(System.in);
 
+        //Kullanıcının girdiği üç sayının ortalamasını hesaplayan bir program yazın.
         for(int i=0; i<=2;i++)
         {
             System.out.print("Lütfen bir Sayısı Giriniz : ");

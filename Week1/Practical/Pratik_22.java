@@ -7,6 +7,8 @@ public class Pratik_22 {
         int Number_1,Number_2;
         Scanner scanner = new Scanner(System.in);
 
+        //Kullanıcıdan alınan iki sayıyı karşılaştırıp büyük, küçük veya eşit olup olmadığını gösteren bir program yazın.
+
         System.out.print("Lütfen Bir sayı Giriniz : ");
         Number_1=scanner.nextInt();
         System.out.print("Lütfen Bir sayı Giriniz : ");

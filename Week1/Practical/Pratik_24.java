@@ -7,6 +7,8 @@ public class Pratik_24 {
         int Number;
         Scanner scanner = new Scanner(System.in);
 
+        //Girilen bir sayının negatif, pozitif veya sıfır olup olmadığını kontrol eden bir program yazın.
+
         System.out.print("Lütfen Bir Sayı Giriniz :");
         Number=scanner.nextInt();
 

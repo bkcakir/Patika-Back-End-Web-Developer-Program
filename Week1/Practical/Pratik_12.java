@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Pratik_12 {
     public static void main(String[] args) {
+        //Kullanıcının girdiği metni sayıya çevirip karesini hesaplayan bir program yazın.
         Scanner scanner = new Scanner(System.in);
         System.out.print("Lütfen Rakam olarak Bir Sayı Giriniz : ");
 

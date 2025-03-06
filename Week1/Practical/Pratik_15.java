@@ -7,6 +7,7 @@ public class Pratik_15 {
         int Number_1;
         int Number_2;
         Scanner scanner = new Scanner(System.in);
+        //İki sayı alıp dört temel matematiksel işlemi gerçekleştiren bir hesap makinesi yazın.
 
         System.out.print("Lütfen Bir Sayı Giriniz : ");
         Number_1=scanner.nextInt();
