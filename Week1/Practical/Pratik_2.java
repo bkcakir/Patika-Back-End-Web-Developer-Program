@@ -2,7 +2,7 @@ package Week1.Practical;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Pratik2 {
+public class Pratik_2 {
 //Bir sabit kullanarak ışık hızını metre/saniye cinsinden tanımlayın ve bir kullanıcının girdiği sürede ışığın ne kadar yol aldığını hesaplayın.
     public static void main(String[] args) {
         final int Speed = 300000;
