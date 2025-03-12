@@ -16,4 +16,5 @@ public class Pratik_12 {
         // Sayının karesi hesaplanır ve ekrana yazdırılır
         System.out.println(number + " Sayısının Karesi : " + (Math.pow(number, 2)));
     }
+
 }

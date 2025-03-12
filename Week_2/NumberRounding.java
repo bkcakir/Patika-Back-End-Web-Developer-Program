@@ -9,5 +9,7 @@ public class NumberRounding {
         System.out.println("Aşağı Yuvarlama: " +Math.floor(Number)); //Math.floor Her zaman Alt Seviye Yuvarllar
         System.out.println("Yukarı  Yuvarlama: "+Math.ceil(Number)); //Math.ceil Her zaman Üst Seviye Yuvarllar
         System.out.println("En Yakın Tam Sayı: "+Math.round(Number)); //Math.randoö Her zaman En Yakın  Seviye Yuvarllar
+        int num;
+
     }
 }
