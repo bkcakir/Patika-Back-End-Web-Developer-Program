@@ -3,6 +3,7 @@ package Week_3.Dersler.Collections.Collections;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
+import java.util.TreeMap;
 
 public class MapMain {
     public static void main(String[] args) {
@@ -34,5 +35,28 @@ public class MapMain {
        contries.put("TR","Türkiye");
        contries.put("DE","Alamanya");
        contries.put("US","Amerika");
+
+        System.out.println("Contries: "+ contries);
+
+        contries.remove("DE");
+        contries.put("FR","France");
+
+        System.out.println("Contries: "+ contries);
+
+
+        Map<Integer,String> numbers = new TreeMap<>();
+
+        numbers.put(3,"Three");
+        numbers.put(1,"One");
+        numbers.put(2,"Two");
+
+        System.out.println("Numbers: "+ numbers);
+
+        boolean containsKey= numbers.containsKey(4);
+        System.out.println(containsKey);
+
+
+
+
     }
 }
