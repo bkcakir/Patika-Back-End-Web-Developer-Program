@@ -1,10 +1,10 @@
-package Week_2.StudentInformation;
+package Week_2.StudentInformation.Week_2.StudentInformation;
 
 public class Teacher {
     private  String Name;
     private  String Surname;
     private  String Phone;
-    private  Course Course;
+    private Week_2.StudentInformation.Week_2.StudentInformation.Course Course;
 
     public Teacher(String name, String surname, String phone) {
         Name = name;
@@ -33,10 +33,10 @@ public class Teacher {
         Phone = phone;
     }
 
-    public Course getCourse() {
+    public Week_2.StudentInformation.Week_2.StudentInformation.Course getCourse() {
         return Course;
     }
-    public void setCourse(Course course) {
+    public void setCourse(Week_2.StudentInformation.Week_2.StudentInformation.Course course) {
         Course = course;
     }
 

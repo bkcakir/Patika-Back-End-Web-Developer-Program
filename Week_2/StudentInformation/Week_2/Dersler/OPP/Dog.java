@@ -1,4 +1,4 @@
-package Week_2.Dersler.OPP;
+package Week_2.StudentInformation.Week_2.Dersler.OPP;
 
 public class Dog extends Abstract {
     @Override

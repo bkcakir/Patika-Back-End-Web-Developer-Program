@@ -1,4 +1,4 @@
-package Week_2.Pratik;
+package Week_2.StudentInformation.Week_2.Pratik;
 
 import java.util.Scanner;
 

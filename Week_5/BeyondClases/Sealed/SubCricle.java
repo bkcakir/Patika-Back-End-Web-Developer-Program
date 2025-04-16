@@ -1,4 +1,4 @@
 package Week_5.BeyondClases.Sealed;
 
-public class SubCricle {
+public non-sealed class SubCricle extends Circle{
 }

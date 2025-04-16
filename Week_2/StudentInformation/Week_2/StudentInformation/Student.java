@@ -1,4 +1,4 @@
-package Week_2.StudentInformation;
+package Week_2.StudentInformation.Week_2.StudentInformation;
 
 import java.time.LocalDate;
 
@@ -17,7 +17,7 @@ public class Student {
         StudentNo = studentNo;
     }
 
-    public  void AddCourse(Course course,int index)
+    public  void AddCourse(Course course, int index)
     {
         if(index>=0 && index<Courses.length)
         {
@@ -29,7 +29,7 @@ public class Student {
         }
     }
 
-    public  void   AddNotes(Course course,int Note)
+    public  void   AddNotes(Course course, int Note)
     {
         for (Course c1 : getCourses())
         {

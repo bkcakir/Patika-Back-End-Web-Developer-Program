@@ -1,4 +1,4 @@
 package Week_5.BeyondClases.Sealed;
 
-public class SubLine {
+public class SubLine extends Line{
 }

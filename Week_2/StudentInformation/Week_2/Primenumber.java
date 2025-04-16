@@ -1,4 +1,4 @@
-package Week_2;
+package Week_2.StudentInformation.Week_2;
 
 import java.util.Scanner;
 
@@ -18,7 +18,7 @@ public class Primenumber {
     }
 
     public static void main(String[] args) {
-        java.util.Scanner scanner = new java.util.Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
 
         System.out.print("Bir sayı giriniz: ");
         int sayi = scanner.nextInt();

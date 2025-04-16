@@ -1,4 +1,4 @@
 package Week_5.BeyondClases.Sealed;
 
-public class Circle {
+public sealed class Circle extends Shape permits SubCricle {
 }

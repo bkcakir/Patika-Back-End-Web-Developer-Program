@@ -1,4 +1,4 @@
-package Week_2;
+package Week_2.StudentInformation.Week_2;
 
 public class NumberRounding {
     public static void main(String[] args) {

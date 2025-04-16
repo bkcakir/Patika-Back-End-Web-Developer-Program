@@ -1,4 +1,4 @@
-package Week_2.Dersler;
+package Week_2.StudentInformation.Week_2.Dersler;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;

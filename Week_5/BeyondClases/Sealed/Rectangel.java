@@ -1,4 +1,4 @@
 package Week_5.BeyondClases.Sealed;
 
-public class Rectangel {
+public final class Rectangel extends Shape{
 }

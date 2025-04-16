@@ -1,4 +1,4 @@
-package Week_2.SalaryCalculator;
+package Week_2.StudentInformation.Week_2.SalaryCalculator;
 
 public class Employee {
     // Çalışanın temel bilgileri

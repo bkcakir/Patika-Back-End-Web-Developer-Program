@@ -1,9 +1,9 @@
-package Projects.ChortBookShoppingSystem.Modal;
+package Projects.ChortBookShoppingSystem.Modal.enums;
 
 public enum Gender {
 
     MAN,
-    VOMAN
+    WOMAN
 
 
 }

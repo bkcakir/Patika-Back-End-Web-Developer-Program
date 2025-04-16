@@ -1,4 +1,4 @@
 package Week_5.BeyondClases.Sealed;
 
-public class Shape {
+public sealed class Shape permits Circle, Line, Rectangel {
 }
