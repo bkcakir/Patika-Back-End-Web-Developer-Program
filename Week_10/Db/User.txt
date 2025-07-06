@@ -1,0 +1,53 @@
+=== Admin Kullanıcıları ===
+Email: admin1@rentacar.com
+Şifre: Admin123!
+
+Email: admin2@rentacar.com
+Şifre: Admin123!
+
+=== Normal Kullanıcılar ===
+Email: user1@example.com
+Şifre: User123!
+
+Email: user2@example.com
+Şifre: User123!
+
+Email: user3@example.com
+Şifre: User123!
+
+Email: user4@example.com
+Şifre: User123!
+
+Email: user5@example.com
+Şifre: User123!
+
+Email: user6@example.com
+Şifre: User123!
+
+Email: user7@example.com
+Şifre: User123!
+
+Email: user8@example.com
+Şifre: User123!
+
+Email: user9@example.com
+Şifre: User123!
+
+Email: user10@example.com
+Şifre: User123!
+
+=== Kurumsal Kullanıcılar ===
+Email: corporate1@company.com
+Şifre: Corp123!
+
+Email: corporate2@company.com
+Şifre: Corp123!
+
+Email: corporate3@company.com
+Şifre: Corp123!
+
+Email: corporate4@company.com
+Şifre: Corp123!
+
+Email: corporate5@company.com
+Şifre: Corp123!
